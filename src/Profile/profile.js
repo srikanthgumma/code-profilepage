@@ -56,7 +56,7 @@ function Profile() {
                 <Card style={{ border: "none", backgroundColor: 'white' }} id='fcard'>
                     <Card.Img variant="top" src={Wpic} style={{ height: "250px", width: '100%' }} />
                     <Card.Body style={{ padding: '10px' }}>
-                        <Card.Title style={{fontSize:'26px',fontWeight:'bold'}}>Weather App</Card.Title>
+                        <Card.Title style={{ fontSize: '26px', fontWeight: 'bold' }}>Weather App</Card.Title>
                         <Card.Text>
                             Enter any city name to check the weather deatils in that area..
                         </Card.Text>
@@ -67,7 +67,7 @@ function Profile() {
                 <Card style={{ border: "none", backgroundColor: 'white' }} id='scard'>
                     <Card.Img variant="top" src={Tpic} style={{ height: "250px", width: '100%' }} />
                     <Card.Body style={{ padding: '10px' }}>
-                        <Card.Title style={{fontSize:'26px',fontWeight:'bold'}}>To-Do List App</Card.Title>
+                        <Card.Title style={{ fontSize: '26px', fontWeight: 'bold' }}>To-Do List App</Card.Title>
                         <Card.Text>
                             Type some text to perform To-Do actions like Editing the text or Deleting the text..
                         </Card.Text>
@@ -78,7 +78,7 @@ function Profile() {
                 <Card style={{ border: "none", backgroundColor: 'white' }} id='tcard'>
                     <Card.Img variant="top" src={Lpic} style={{ width: "100%", height: "250px" }} />
                     <Card.Body style={{ padding: '10px' }}>
-                        <Card.Title style={{fontSize:'26px',fontWeight:'bold'}}>Landing Page</Card.Title>
+                        <Card.Title style={{ fontSize: '26px', fontWeight: 'bold' }}>Landing Page</Card.Title>
                         <Card.Text>
                             It is an Instagram Grwoth E-Book webpage where you can view it's benefits and how this e-book can help you grow your followers on IG and make some real money. It is made Responsive on different screens.(Mobile,Desktop,Tab etc..)
                         </Card.Text>
@@ -88,36 +88,36 @@ function Profile() {
                 <Card style={{ border: "none", backgroundColor: 'white' }} id='frcard'>
                     <Card.Img variant="top" src={counter} style={{ width: "100%", height: "250px" }} />
                     <Card.Body style={{ padding: '10px' }}>
-                        <Card.Title style={{fontSize:'26px',fontWeight:'bold'}}>Counter App</Card.Title>
+                        <Card.Title style={{ fontSize: '26px', fontWeight: 'bold' }}>Counter App</Card.Title>
                         <Card.Text>
                             It is an Application where you can increment the number by 1 and decrement it by 1 and also you can reset the number to ZERO.
                         </Card.Text>
                         <a href=' https://srikanthgumma.github.io/react-counter-app/' target='_self' id='counterapp' >Go to Counter Page</a>
                     </Card.Body>
                 </Card>
-                <Card style={{ border: "none", backgroundColor: 'white',marginBottom:'80px' }} id='frcard'>
+                <Card style={{ border: "none", backgroundColor: 'white', marginBottom: '80px' }} id='frcard'>
                     <Card.Img variant="top" src={Cpic} style={{ width: "100%", height: "250px" }} />
                     <Card.Body style={{ padding: '10px' }}>
-                        <Card.Title style={{fontSize:'26px',fontWeight:'bold'}}>Calculation App</Card.Title>
+                        <Card.Title style={{ fontSize: '26px', fontWeight: 'bold' }}>Calculation App</Card.Title>
                         <Card.Text>
                             It is an Application where you can perform arthimatic operations like addition, substractions, divisions and more.
                         </Card.Text>
-                        <a href=' https://srikanthgumma.github.io/' target='_self' id='cals' >Go to Calculation Page</a>
+                        <a href='https://srikanthgumma.github.io/code-calculator/' target='_self' id='cals' >Go to Calculation Page</a>
                     </Card.Body>
                 </Card>
-                <Card style={{ border: "none", backgroundColor: 'white',marginBottom:'80px' }} id='frcard'>
+                <Card style={{ border: "none", backgroundColor: 'white', marginBottom: '80px' }} id='frcard'>
                     <Card.Img variant="top" src={''} style={{ width: "100%", height: "250px" }} />
                     <Card.Body style={{ padding: '10px' }}>
-                        <Card.Title style={{fontSize:'26px',fontWeight:'bold'}}>Calculation App</Card.Title>
+                        <Card.Title style={{ fontSize: '26px', fontWeight: 'bold' }}>Mantis Free React Material UI Dashboard Template</Card.Title>
                         <Card.Text>
-                            It is an Application where you can perform arthimatic operations like addition, substractions, divisions and more.
+                        Mantis is React Dashboard Template having combine tone of 2 popular react component library - MUI and Ant Design principles.
                         </Card.Text>
-                        <a href=' https://srikanthgumma.github.io/' target='_self' id='cals' >Go to Calculation Page</a>
+                        <a href=' https://srikanthgumma.github.io/' target='_self' id='cals' >Go to MUI Template</a>
                     </Card.Body>
                 </Card>
             </div>
-            <div style={{ margin: 'auto',maxWidth:'600px',marginBottom:'90px',color:'white',textAlign:'center' }}>
-                <h2 style={{fontSize:'40px'}}>Contact Information</h2>
+            <div style={{ margin: 'auto', maxWidth: '600px', marginBottom: '90px', color: 'white', textAlign: 'center' }}>
+                <h2 style={{ fontSize: '40px' }}>Contact Information</h2>
                 <p>Mobile number: <code>+91 9505907430</code></p>
                 <p>Email: <sample>srikanthgummadi516@gmail.com</sample></p>
             </div>
