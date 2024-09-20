@@ -5,6 +5,7 @@ import Tpic from '../images/todo.jpeg'
 import Lpic from '../images/land.png';
 import counter from '../images/counter.png';
 import Cpic from '../images/calss.jpeg';
+import mpic from '../images/mui.jpeg'
 import '../App.css'
 
 function Profile() {
@@ -106,7 +107,7 @@ function Profile() {
                     </Card.Body>
                 </Card>
                 <Card style={{ border: "none", backgroundColor: 'white', marginBottom: '80px' }} id='frcard'>
-                    <Card.Img variant="top" src={''} style={{ width: "100%", height: "250px" }} />
+                    <Card.Img variant="top" src={mpic} style={{ width: "100%", height: "250px" }} />
                     <Card.Body style={{ padding: '10px' }}>
                         <Card.Title style={{ fontSize: '26px', fontWeight: 'bold' }}>Mantis Free React Material UI Dashboard Template</Card.Title>
                         <Card.Text>
